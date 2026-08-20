@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/hardik1533/Leetcode/tree/master/0001-two-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/hardik1533/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/hardik1533/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## String
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/hardik1533/Leetcode/tree/master/0001-two-sum) |
 | [1563-stone-game-v](https://github.com/hardik1533/Leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/hardik1533/Leetcode/tree/master/2029-stone-game-ix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/hardik1533/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
