@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hardik1533/Leetcode/tree/master/0001-two-sum) |
+| [0141-linked-list-cycle](https://github.com/hardik1533/Leetcode/tree/master/0141-linked-list-cycle) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/hardik1533/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/hardik1533/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## String
@@ -74,12 +75,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/hardik1533/Leetcode/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/hardik1533/Leetcode/tree/master/0141-linked-list-cycle) |
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/hardik1533/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/hardik1533/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/hardik1533/Leetcode/tree/master/0206-reverse-linked-list) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/hardik1533/Leetcode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
