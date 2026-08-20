@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/hardik1533/Leetcode/tree/master/0125-valid-palindrome) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/hardik1533/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/hardik1533/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/hardik1533/Leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
