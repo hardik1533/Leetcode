@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/hardik1533/Leetcode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/hardik1533/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/hardik1533/Leetcode/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/hardik1533/Leetcode/tree/master/0383-ransom-note) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/hardik1533/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/hardik1533/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## String
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/hardik1533/Leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/hardik1533/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/hardik1533/Leetcode/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/hardik1533/Leetcode/tree/master/0383-ransom-note) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/hardik1533/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/hardik1533/Leetcode/tree/master/0383-ransom-note) |
 | [2029-stone-game-ix](https://github.com/hardik1533/Leetcode/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
