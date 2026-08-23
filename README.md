@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hardik1533/Leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/hardik1533/Leetcode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/hardik1533/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/hardik1533/Leetcode/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/hardik1533/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/hardik1533/Leetcode/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/hardik1533/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1927-sum-game](https://github.com/hardik1533/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/hardik1533/Leetcode/tree/master/2029-stone-game-ix) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/hardik1533/Leetcode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/hardik1533/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/hardik1533/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/hardik1533/Leetcode/tree/master/0141-linked-list-cycle) |
