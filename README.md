@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/hardik1533/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/hardik1533/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/hardik1533/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/hardik1533/Leetcode/tree/master/0739-daily-temperatures) |
 | [1563-stone-game-v](https://github.com/hardik1533/Leetcode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/hardik1533/Leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/hardik1533/Leetcode/tree/master/2029-stone-game-ix) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/hardik1533/Leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/hardik1533/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/hardik1533/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/hardik1533/Leetcode/tree/master/0739-daily-temperatures) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/hardik1533/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/hardik1533/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/hardik1533/Leetcode/tree/master/0739-daily-temperatures) |
 ## Sorting
 |  |
 | ------- |
