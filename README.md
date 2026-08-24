@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/hardik1533/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/hardik1533/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1563-stone-game-v](https://github.com/hardik1533/Leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/hardik1533/Leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/hardik1533/Leetcode/tree/master/2029-stone-game-ix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/hardik1533/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/hardik1533/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/hardik1533/Leetcode/tree/master/0009-palindrome-number) |
 | [1563-stone-game-v](https://github.com/hardik1533/Leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/hardik1533/Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/hardik1533/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/hardik1533/Leetcode/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/hardik1533/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/hardik1533/Leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/hardik1533/Leetcode/tree/master/2029-stone-game-ix) |
 ## Counting
 |  |
@@ -85,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1563-stone-game-v](https://github.com/hardik1533/Leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/hardik1533/Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/hardik1533/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/hardik1533/Leetcode/tree/master/2029-stone-game-ix) |
 ## Nim Game
@@ -94,12 +98,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/hardik1533/Leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/hardik1533/Leetcode/tree/master/2029-stone-game-ix) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/hardik1533/Leetcode/tree/master/0042-trapping-rain-water) |
 | [1563-stone-game-v](https://github.com/hardik1533/Leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/hardik1533/Leetcode/tree/master/1872-stone-game-viii) |
 ## Simulation
 |  |
 | ------- |
@@ -186,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/hardik1533/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/hardik1533/Leetcode/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
