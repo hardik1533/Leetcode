@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/hardik1533/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/hardik1533/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/hardik1533/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/hardik1533/Leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hardik1533/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/hardik1533/Leetcode/tree/master/0189-rotate-array) |
 | [0228-summary-ranges](https://github.com/hardik1533/Leetcode/tree/master/0228-summary-ranges) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/hardik1533/Leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/hardik1533/Leetcode/tree/master/0055-jump-game) |
 | [0680-valid-palindrome-ii](https://github.com/hardik1533/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1927-sum-game](https://github.com/hardik1533/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/hardik1533/Leetcode/tree/master/2029-stone-game-ix) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/hardik1533/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/hardik1533/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/hardik1533/Leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hardik1533/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1563-stone-game-v](https://github.com/hardik1533/Leetcode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/hardik1533/Leetcode/tree/master/1872-stone-game-viii) |
