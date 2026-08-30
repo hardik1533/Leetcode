@@ -1,8 +1,8 @@
-SELECT 
-    id,
-    CASE 
-        WHEN p_id IS NULL THEN 'Root'
-        WHEN id NOT IN (SELECT DISTINCT p_id FROM Tree WHERE p_id IS NOT NULL) THEN 'Leaf'
-        ELSE 'Inner'
-    END AS Type
-FROM Tree;
+# Write your MySQL query statement below
+
+select id, case 
+    when p_id  is null then 'Root'
+    when id  In (select  p_id from tree where p_id is not null) then 'Inner'
+    else 'Leaf'
+    end as  type  
+    from  Tree order by id
