@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0607-sales-person](https://github.com/hardik1533/Leetcode/tree/master/0607-sales-person) |
 | [0608-tree-node](https://github.com/hardik1533/Leetcode/tree/master/0608-tree-node) |
 | [0620-not-boring-movies](https://github.com/hardik1533/Leetcode/tree/master/0620-not-boring-movies) |
+| [1667-fix-names-in-a-table](https://github.com/hardik1533/Leetcode/tree/master/1667-fix-names-in-a-table) |
 ## Breadth-First Search
 |  |
 | ------- |
