@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/hardik1533/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/hardik1533/Leetcode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/hardik1533/Leetcode/tree/master/0189-rotate-array) |
+| [0836-rectangle-overlap](https://github.com/hardik1533/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1563-stone-game-v](https://github.com/hardik1533/Leetcode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/hardik1533/Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/hardik1533/Leetcode/tree/master/1927-sum-game) |
@@ -341,4 +342,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/hardik1533/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/hardik1533/Leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
