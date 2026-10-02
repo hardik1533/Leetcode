@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/hardik1533/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hardik1533/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/hardik1533/Leetcode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/hardik1533/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/hardik1533/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/hardik1533/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/hardik1533/Leetcode/tree/master/0217-contains-duplicate) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/hardik1533/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/hardik1533/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hardik1533/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/hardik1533/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/hardik1533/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/hardik1533/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/hardik1533/Leetcode/tree/master/0217-contains-duplicate) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/hardik1533/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/hardik1533/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Database
 |  |
