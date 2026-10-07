@@ -1,13 +1,6 @@
-SELECT 
-    machine_id,
-    ROUND(AVG(end_time - start_time), 3) AS processing_time
-FROM (
-    SELECT 
-        machine_id,
-        process_id,
-        MAX(CASE WHEN activity_type = 'start' THEN timestamp END) AS start_time,
-        MAX(CASE WHEN activity_type = 'end' THEN timestamp END) AS end_time
-    FROM Activity
-    GROUP BY machine_id, process_id
-) AS t
-GROUP BY machine_id;
+select a1.machine_id,  -round(avg(a1.timestamp-a2.timestamp),3) as processing_time
+ from 
+Activity as a1
+join Activity as a2
+on a1.machine_id = a2.machine_id and a1.activity_type = 'start' and a2.activity_type = 'end'
+group by a1.machine_id
