@@ -447,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1045-customers-who-bought-all-products](https://github.com/hardik1533/Leetcode/tree/master/1045-customers-who-bought-all-products) |
 | [1070-product-sales-analysis-iii](https://github.com/hardik1533/Leetcode/tree/master/1070-product-sales-analysis-iii) |
 | [1075-project-employees-i](https://github.com/hardik1533/Leetcode/tree/master/1075-project-employees-i) |
+| [1179-reformat-department-table](https://github.com/hardik1533/Leetcode/tree/master/1179-reformat-department-table) |
 | [1280-students-and-examinations](https://github.com/hardik1533/Leetcode/tree/master/1280-students-and-examinations) |
 | [1667-fix-names-in-a-table](https://github.com/hardik1533/Leetcode/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/hardik1533/Leetcode/tree/master/1683-invalid-tweets) |
