@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/hardik1533/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/hardik1533/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/hardik1533/Leetcode/tree/master/0392-is-subsequence) |
+| [0415-add-strings](https://github.com/hardik1533/Leetcode/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/hardik1533/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/hardik1533/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/hardik1533/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/hardik1533/Leetcode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/hardik1533/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/hardik1533/Leetcode/tree/master/0268-missing-number) |
+| [0415-add-strings](https://github.com/hardik1533/Leetcode/tree/master/0415-add-strings) |
 | [0836-rectangle-overlap](https://github.com/hardik1533/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1563-stone-game-v](https://github.com/hardik1533/Leetcode/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/hardik1533/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/hardik1533/Leetcode/tree/master/0415-add-strings) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/hardik1533/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Two Pointers
 |  |
