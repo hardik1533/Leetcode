@@ -1,13 +1,15 @@
 class Solution {
     public boolean checkString(String s) {
-        int count = 0;
-        for(char ch : s.toCharArray()){
-            if(ch == 'a') count++;
+        boolean seenB = false;
+
+        for (char c : s.toCharArray()) {
+            if (c == 'b') {
+                seenB = true;
+            } else if (seenB) { // c == 'a' after a 'b'
+                return false;
+            }
         }
-        for(char ch : s.toCharArray()){
-            if(ch == 'a') count--;
-            else break;
-        }
-        return count == 0 ? true:false;
+
+        return true;
     }
 }
